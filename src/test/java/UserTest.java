@@ -27,7 +27,7 @@ public class UserTest {
         for (User user : all) {
             System.out.println(user);
         }
-        System.out.println(116);
+        System.out.println(116);System.out.println(116);System.out.println(116);
     }
 
     @Test
